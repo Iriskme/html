@@ -1,0 +1,31 @@
+*{font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    color: Red;
+}
+.p1{
+    text-align: center;
+    line-height: 0.1;
+   
+}
+.p2{
+
+    text-align: center;
+}
+.p3{
+    position: relative;
+    left: 30px;
+    font-size: small;
+    line-height: 0.1;
+}
+.p4{
+    font-weight: bold;
+    line-height: 0.1;
+    text-indent: length;
+}
+
+h3{
+    color: red;
+    line-height: 1.0;
+}
